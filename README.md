@@ -8,7 +8,7 @@ To start, you can either download and unzip the content of this repository into 
 
 ```bash
 git clone https://github.com/DonovanhDiaz/emiliano.git
-cd otree-experiments
+cd emiliano
 
 python -m venv .venv
 cd .venv
