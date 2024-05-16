@@ -7,7 +7,7 @@ Please follow the steps below to set up the project:
 To start, you can either download and unzip the content of this repository into a working directory or clone it using the following git commands:
 
 ```bash
-git clone https://github.com/qwiglydee/otree-experiments/
+git clone https://github.com/DonovanhDiaz/emiliano.git
 cd otree-experiments
 
 python -m venv .venv
