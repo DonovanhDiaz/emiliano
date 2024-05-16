@@ -1,20 +1,32 @@
-0. download/unzip content of this repo into some working directory, or clone it using git 
+1. Create and Activate a Virtual Environment
 
-git clone https://github.com/qwiglydee/otree-experiments/
-cd otree-experiments
+Create a virtual environment in your working directory and activate it:
 
-1. create and activate virtualenv in working directory
+bash
 
 python -m venv .venv
-cd .venv
-cd scripts
+cd .venv/scripts
 activate
+cd ../..
 
-2. install requirements 
-cd..
-cd..
+2. Install Requirements
+
+First, upgrade pip, and then install the required packages:
+
+bash
+
 pip install --upgrade pip
 pip install -r requirements.txt
 
-3. run the development server
+3. Run the Development Server
+
+Start the development server by running:
+
+bash
+
 otree devserver
+
+r
+
+
+Este formato utiliza bloques de código para los comandos que se deben ejecutar, lo c
